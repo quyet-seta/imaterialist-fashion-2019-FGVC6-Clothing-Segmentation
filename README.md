@@ -13,13 +13,13 @@ https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6
 ![image](https://user-images.githubusercontent.com/71560376/133889482-4889c04d-b853-4bbf-a53a-bc2db1153fa1.png)
 2. DeeplabV3 Pretrain Resnet50
 ![image](https://user-images.githubusercontent.com/71560376/133889581-a8de3f81-9ab1-4ab5-bc9f-3bb79a11a6e8.png)
-3. Accuracy
+## Accuracy
 
 MobinetV2-Unet  | Resnet50-DeeplabV3
 ------------- | -------------
 86%  | 90%
 
-4. Result
+## Result
 
 
 ![00a1940434d687a785be0acf2b0fbff3](https://user-images.githubusercontent.com/71560376/133889952-fa1c2b60-7029-499a-97bb-729a658b4020.jpg)

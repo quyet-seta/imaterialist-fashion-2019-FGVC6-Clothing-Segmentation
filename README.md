@@ -14,7 +14,9 @@ https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6
 2. DeeplabV3 Pretrain Resnet50
 ![image](https://user-images.githubusercontent.com/71560376/133889581-a8de3f81-9ab1-4ab5-bc9f-3bb79a11a6e8.png)
 3. Accuracy
-| MobinetV2-Unet | DeeplabV3+ |
-| :------------: | :--------: |
-|      86%       |     90%    |
+
+MobinetV2-Unet  | Resnet50-DeeplabV3
+------------- | -------------
+Content Cell  | Content Cell
+
 

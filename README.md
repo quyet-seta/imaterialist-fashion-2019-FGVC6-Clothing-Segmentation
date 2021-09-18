@@ -17,6 +17,6 @@ https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6
 
 MobinetV2-Unet  | Resnet50-DeeplabV3
 ------------- | -------------
-Content Cell  | Content Cell
+86%  | 90%
 
 
